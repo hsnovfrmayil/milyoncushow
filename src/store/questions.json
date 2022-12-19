@@ -1,0 +1,86 @@
+
+{
+		    "questions" : [
+		        {
+		            "question" : "Ensteynin dostu olan mehsur Nobel mukafati laureati yazici kimdir?",
+		            "content" : [
+		                "Rabindranat Taqor",
+		                "Viktor Huqo",
+		                "Daniel Defo",
+		                "Jul Vern"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "2+2*2?",
+		            "content" : [
+		                "0",
+		                "2",
+		                "6",
+		                "8"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "marqanasov adlandirilan madde hansidir?",
+		            "content" : [
+		                "natrium nitrat",
+		                "kalium xlorid",
+		                "kalium permanqanat",
+		                "kalium xlorid"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Istanbul necenci ilde feth edildi?",
+		            "content" : [
+		                "1234",
+		                "1098",
+		                "1453",
+		                "1088"
+		            ],
+		            "correct" : 2
+		        },
+				{
+		            "question" : "Rengli simfoniyasinda hansi mehsur dahinin emeyi kecib?",
+		            "content" : [
+		                "Ensteyn",
+		                "Tesla",
+		                "Nyuton",
+		                "Da Vinci"
+		            ],
+		            "correct" : 3
+		        },
+				{
+		            "question" : "Kozetta obrazi kimden esinlenib",
+		            "content" : [
+		                "Huqonun boyuk qizindan",
+						"Huqonun olen qizindan",
+		                "Huqonun bacisindan",
+		                "Huqonun kicik qizindan"
+		            ],
+		            "correct" : 1
+		        },
+				{
+		            "question" : "'Semed bey Mehmandarov haralidi?",
+		            "content" : [
+		                "Lenkeran",
+						"Quba",
+		                "Lerik",
+		                "Astara"
+		            ],
+		            "correct" : 1
+		        },
+				
+		        {
+		            "question" : "What is Aurora Borealis commonly known as?",
+		            "content" : [
+		                "Fairy Dust",
+		                "Northern Lights",
+		                "Book of ages",
+		                "a Game of Thrones main character"
+		            ],
+		            "correct" : 1
+		        }
+            ]
+            }
